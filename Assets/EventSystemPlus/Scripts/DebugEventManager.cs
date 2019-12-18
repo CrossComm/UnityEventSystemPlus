@@ -4,5 +4,5 @@ using UnityEngine;
 
 public class DebugEventManager : MonoBehaviour
 {
-   
+   //Attach this script to any gameobject to debug trigger events
 }
